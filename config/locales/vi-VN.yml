@@ -1,0 +1,1063 @@
+vi-VN:
+  1_item_scores_5512cd03: 1- Điểm số mục
+  EditAppointmentGroupDetails:
+    select_calendars: Chọn lịch
+  GroupDetailView:
+    user_count:
+      one: 1 người
+      other: "%{count} thành viên"
+  account_reports:
+    default:
+      extra_text_term: 'Học kỳ: %{term_name};'
+      term_text: 'Học kỳ: %{term_name};'
+    report_header_current_score: điểm hiện tại
+    report_header_term: học kỳ
+  accounts:
+    add_course_or_user:
+      display_name_help: Mọi người sẽ thấy tên này trong các cuộc thảo luận, tin nhắn và bình luận.
+      full_name_description: Tên này sẽ được sử dụng bởi các giáo viên để chấm điểm.
+      labels:
+        enrollment_term_id: Thời hạn tuyển sinh
+        full_name: Họ và tên
+        short_name: Tên hiển thị
+        sortable_name: Tên sắp xếp
+      sortable_name_help: Tên này xuất hiện trong danh sách sắp xếp.
+    admin_tools:
+      comm_message_item:
+        reply_to: Trả lời
+        to: Đến
+      course_logging_details:
+        From: Từ
+        To: Đến
+        copied_from_label: Được sao chép từ
+        copied_to_label: Sao chép vào
+        reset_to_label: Đặt lại thành
+      date_range_search:
+        message_date_from: Từ ngày
+        message_date_to: Đến ngày
+      grade_change_logging_results:
+        To: Đến
+        from: Từ
+      user_date_range_search_form:
+        message_date_from: Từ ngày
+    assignment_scheduling_csv_parameters:
+      account_reports:
+        newark:
+          assignment_count:
+            field: "# Bài tập:"
+          assignments:
+            check_box: Bài tập
+    avatars:
+      all_link:
+        zero: Tất cả
+    course:
+      none: không có
+    reports_tab:
+      headers:
+        report_name: Tên
+    safety_drill_csv_parameters:
+      account_reports:
+        newark:
+          assignments:
+            check_box: Bài tập
+    settings:
+      alerts_title: Cảnh báo
+      feature_options: Tùy chọn tính năng
+      labels:
+        allow_invitation_previews: Xem trước lời mới
+        default_time_zone: Múi giờ mặc định
+      notifications:
+        from: Từ
+      tab_alerts: Cảnh báo
+      tab_announcements: Thông báo
+      update_settings_button: Cập nhật cài đặt
+    sis_batch_counts:
+      groups: Các nhóm
+  add_announcement_165c3b05: Thêm thông báo
+  add_new_announcement_ddacd624: Thêm thông báo mới
+  all_4321c3a1: Tất cả
+  all_assignments_b79a4d6a: Tất cả bài tập
+  all_courses_a7dbb853: Tất cả khoá học
+  all_courses_80701c6f: Tất cả khoá học
+  all_day_fb42c4fc: Cả ngày
+  all_my_files_a0213441: Tất Cả File Của Tôi
+  all_sections_daf11554: Tất cả các mục
+  announcement_external_feeds_5be3f36b: Thông báo bên ngoài
+  announcement_fb4cb645: Thông báo
+  announcements_a4b8ed4a: Thông báo
+  announcements_account_4e9df626: Thông báo
+  announcements_list_c75fc413: Danh sách thông báo
+  announcements_view_1019d00d: Xem Thông Báo
+  archived_de543437: Đã lưu trữ
+  assignment:
+    comment_from_files:
+      other: Xem file đính kèm
+    grading_type_options:
+      points: Điểm
+  assignments:
+    assignments_list_right_side:
+      titles:
+        upcoming_assignments: Bài tập sắp tới
+    create_assignment:
+      assignment_points: 'Điếm:'
+      more: Lựa chọn khác
+    date_due_column_view:
+      todo_date: Ghi nhớ
+    grade_assignment:
+      buttons:
+        upload_files: Tải File lên
+      links:
+        download_submissions: Tải tài liệu
+    index_view:
+      search_for_assignment: Tìm kiếm bài tập
+    show:
+      no_points: Không có
+      points: Điểm
+    submission_sidebar:
+      links:
+        submission:
+          details: Chi tiết lần nộp
+    syllabus_content:
+      headers:
+        details: Chi tiết
+      labels:
+        assignments_summary: Sơ lược khóa học
+      links:
+        jump_to_today: Chuyển đến hôm nay
+      titles:
+        course_syllabus: Đề cương khóa học
+    turnitin_settings_dialog:
+      buttons:
+        update_settings: Cập nhật cài đặt
+    veri_cite_settings_dialog:
+      buttons:
+        update_settings: Cập nhật cài đặt
+  assignmentsToggleShowByView:
+    undated_assignments: Bài tập không có lịch
+    upcoming_assignments: Bài tập sắp tới
+  attach_files_to_discussions_bd16c245: Đính kèm file vào thảo luận
+  attempt_to_detect_an_appropriate_field_separator_i_bc043389: Cố gắng phát hiện dấu tách trường thích hợp trong xuất bảng tính tương thích dựa trên định dạng số cho ngôn ngữ của bạn.
+  autodetect_field_separators_in_compatible_spreadsh_768067e1: Sử dụng dấu chấm phẩy để phân tách các trường trong xuất bảng tính tương thích
+  back_to_announcements_1036e43e: Quay lại Thông báo
+  buttons:
+    published: Được phát hành
+    search: Tìm kiếm
+  calendar:
+    agenda_view:
+      no_events: "* Không có sự kiện sau ngày này. *"
+    appointment_group_list:
+      location: 'Địa điểm:'
+    calendar_header:
+      create_event: Tạo sự kiện mới
+      links:
+        calendar_agenda: Chương trình
+        calendar_month: Tháng
+        calendar_week: Tuần
+    calendar_navigator:
+      next: Kế tiếp
+      previous: Trước đó
+      today: Hôm nay
+    edit:
+      confirm_delete_calendar_event: Bạn có chắc chắn muốn xóa sự kiện này?
+    edit_appointment_group:
+      details: 'Chi tiết:'
+      location: Địa điểm
+    edit_assignment:
+      links:
+        more_options: Lựa chọn khác
+    edit_assignment_override:
+      links:
+        more_options: Lựa chọn khác
+    edit_calendar_event:
+      links:
+        more_options: Lựa chọn khác
+      location: 'Địa điểm:'
+    edit_calendar_event_full:
+      buttons:
+        create: Tạo sự kiện
+      edit_calendar_event_header: Thay đổi sự kiện
+      location_address: 'Địa chỉ:'
+      location_name: 'Địa điểm:'
+      new_calendar_event_header: Sự kiện mới
+    edit_event:
+      tabs:
+        todo: Ghi nhớ của tôi
+    edit_to_do_item:
+      links:
+        more_options: Lựa chọn khác
+    event_details:
+      details: Chi tiết
+      location: 'Địa điểm:'
+      location_address: Địa chỉ
+    loading_undated_events: Đang tải các sự kiện không có lịch
+    titles:
+      edit_event: Thay đổi sự kiện
+    today: Hôm nay
+    undated_events:
+      loading_undated_events: Đang tải các mục không có lịch ...
+      no_undated_events: Không có mục nào.
+      show_undated_events: Hiển thị mục chưa có lịch
+  calendar_event:
+    feed_item_title: 'Sự kiện: %{event_title}'
+    feed_item_title_with_context: 'Sự kiện, %{course_or_account_name}: %{event_title}'
+  calendar_event_89aadc1c: Thay đổi sự kiện
+  calendar_events:
+    crumbs:
+      new: Sự kiện mới
+    new:
+      page_title: Sự kiện mới
+    show:
+      links:
+        edit: Thay đổi sự kiện
+  calendars:
+    show:
+      calendar_feed: Tin theo lịch
+      calendar_feed_instructions: Sao chép liên kết bên dưới và dán nó vào bất kỳ ứng dụng lịch nào có nguồn cấp iCal (Lịch Google, iCal, Outlook, v.v.)
+      calendars: Lịch
+      feed_dialog_title: Tin theo lịch
+      page_title_header: Lịch
+      skip_to_calendar: Bỏ qua lịch
+      undated_items: Chưa sắp lịch
+  calendars_a756c286: Lịch
+  cannot_create_event_for_deleted_course_c800f310: không thể tạo sự kiện cho khóa học đã xóa
+  check_back_later_c4234dbc: Kiểm tra lại sau
+  click_to_create_a_new_user_for_address_325f6683: Bấm tạo user cho %{address}
+  click_to_skip_address_8f874b32: Bấm bỏ qua %{address}
+  collaborations:
+    collaborator_picker:
+      labels:
+        groups: Các nhóm
+  color_a363e1b0: Màu
+  communication_channels:
+    confirm:
+      buttons:
+        add_email_address: Có, Thêm địa chỉ email
+      labels:
+        subscribe_to_emails: Tôi muốn nhận thông tin, tin tức và lời khuyên từ Instructure
+        time_zone: Múi giờ
+  conferences:
+    index:
+      conference_header: Hội nghị
+  conferences_a0a8984b: Hội nghị
+  content_export_files_cannot_be_downloaded_after_da_2872b0e4: Các tệp xuất nội dung không thể được tải xuống sau %{days} ngày.
+  content_exports:
+    index:
+      user_data_exports: Tải tài liệu
+  context:
+    new_roster_user:
+      enrolled_as: Ghi danh với tư cách %{enrollment_type}
+    roster_user:
+      enrolled_as: Ghi danh với tư cách %{enrollment_type}
+      labels:
+        public_list_services: Hãy để các thành viên khóa học / thành viên nhóm xem những dịch vụ nào tôi đã liên kết với hồ sơ của tôi
+    roster_user_services:
+      headings:
+        registered_services: Dịch vụ đã đăng ký
+      labels:
+        allow_view_services: Hãy để các thành viên khóa học / thành viên nhóm xem những dịch vụ nào tôi đã liên kết với hồ sơ của tôi
+      titles:
+        registered_services: Dịch vụ đã đăng ký
+    roster_user_usage:
+      loading_more_results: Đang tải thêm kết quả
+  conversations:
+    course_options:
+      course_options:
+        groups: Các nhóm
+    index_new:
+      compose_new_message: Soạn tin nhắn
+      more_options: Lựa chọn khác
+      search_for_recipients: Tìm kiếm người nhận
+    message_detail:
+      more_options: Lựa chọn khác
+    message_item:
+      more_options: Lựa chọn khác
+    no_message:
+      no_conversations_selected: Không có cuộc hội thoại nào được chọn
+  conversations_69a8dc26: Cuộc trò chuyện
+  context_modulespublic:
+    optgroup:
+      discussion_topics: Thảo luận
+  correct_answer_5a6a57d1: Đáp án đúng
+  count_items_selected_91814713:
+    one: "%{count} mục được chọn"
+    other: "%{count} mục được chọn"
+  count_minutes_a6eeeacb:
+    other: "%{count} phút"
+  course_calendar_7d3cba7b: Lịch khóa học
+  course_content_a92eca20: Nội dung khóa học
+  course_exports:
+    errors:
+      external_feeds: Xuất dữ liệu thất bại
+  course_logging:
+    event_type:
+      published: Được phát hành
+  course_settings:
+    errors:
+      invitation: Lời mời thất bại. Vui lòng thử lại.
+    flash:
+      invitation: Lời mời đã gửi.
+    invitation_sent: Lời mời đã gửi!
+    links:
+      more_options: lựa chọn khác
+      re_sending_invitation: Gửi lại lời mời ...
+    re_send_invitation: Gửi lại lời mời
+  course_syllabus_5de1b0af: Đề cương khóa học
+  courses:
+    confirm_reject_invitation: Bạn có chắc chắn muốn từ chối lời mời tham gia khóa học này?
+    master_course_restrictions:
+      labels:
+        due_dates: Ngày kết thúc
+        points: Điểm
+    notices:
+      invitation_cancelled: Lời mời bị hủy.
+      preview_course: Bạn đã được mời tham gia khóa học này. Bạn có thể xem qua, nhưng bạn sẽ cần chấp nhận lời mời đăng ký trước khi bạn có thể tham gia.
+    roster:
+      create_users:
+        next: Kế tiếp
+      resend_invitations:
+        pending_invitation: 1 lời mời đã không được chấp nhận.
+      roster_user:
+        links:
+          resend_invitation: Gửi lại lời mời
+        pending_acceptance_explanation: Người dùng này chưa chấp nhận lời mời tham gia khóa học
+    settings:
+      alerts_title: Cảnh báo
+      labels:
+        course_status_published: Khóa học được xuất bản
+        language: Ngôn ngữ
+        time_zone: Múi giờ
+      links:
+        more_options: lựa chọn khác
+      none: Không có
+      tabs:
+        alerts: Cảnh báo
+        feature_options: Tùy chọn tính năng
+    show:
+      links:
+        new_announcement: Thông báo
+        view_course_calendar: Xem lịch học
+        view_course_stream: Xem hoạt động khóa học
+      titles:
+        recent_feedback: Phản Hồi Gần Đây
+    sidebar_weighting:
+      not_weighted: Bài tập khóa học không có trọng số.
+    statistics:
+      discussions: Thảo luận
+  create_a_new_user_for_address_7487e9c9: Tạo user cho "%{address}"
+  creating_a_submission_export_will_allow_you_to_dow_b4b1a658: Xuất dữ liệu bài tập sẽ cho phép bạn tải xuống một tệp zip của tất cả các bài nộp bài tập của bạn trong tất cả các khóa học hiện tại và quá khứ của bạn. Đây có thể là một tập tin lớn, vì vậy nó có thể mất một lúc. Bạn có thể điều hướng khỏi trang và quay lại sau.
+  crumbs:
+    conferences: kHội nghị
+    discussions: Thảo luận
+    modules: Học phần
+    registered_services: Dịch vụ đã đăng ký
+  current_score_6c81792: Điểm hiện tại
+  current_score_74777363: điểm hiện tại
+  dashboard:
+    assignments_collapse:
+      one: Thu gọn %{count} thông báo
+    assignments_expand:
+      one: Mở rộng %{count} thông báo
+    show_more_link:
+      show_less: Hiện ít lại
+      show_more: Hiện thêm
+  dashboard_7f1dbf71: Bảng điều khiển
+  dashboard_view_d7d85969: Xem Bảng Điều Khiển
+  date:
+    abbr_month_names:
+    - T1
+    - T2
+    - T3
+    - T4
+    - T5
+    - T6
+    - T7
+    - T8
+    - T9
+    - T10
+    - T11
+    - T12
+    days:
+      today: Hôm nay
+      today_lower: hôm nay
+    month_names:
+    - Tháng 1
+    - Tháng 2
+    - Tháng 3
+    - Tháng 4
+    - Tháng 5
+    - Tháng 6
+    - Tháng 7
+    - Tháng 8
+    - Tháng 9
+    - Tháng 10
+    - Tháng 11
+    - Tháng 12
+    order:
+    - năm
+    - tháng
+    - ngày
+  date_created_87e265bc: Ngày tạo
+  date_modified_e1c8ac8f: Ngày sửa đổi
+  datepicker:
+    nextText: Kế tiếp
+  datetime:
+    distance_in_words:
+      about_x_months:
+        one: khoảng 1 tháng
+      x_minutes:
+        other: "%{count} phút"
+      x_months:
+        one: 1 tháng
+    prompts:
+      month: Tháng
+  date_created_createdat_265a0dfa: 'ngày tạo: %{createdAt}'
+  date_modified_modifiedat_b839cc8b: 'ngày sửa đổi: %{modifiedAt}'
+  default_view_for_dashboard_ea91b60f: Bảng Điều Khiển Mặc Định
+  demos:
+    _register:
+      invalid_email: Địa chỉ email không hợp lệ
+    demos_add:
+      labels:
+        username: Địa chỉ email
+    register:
+      labels:
+        location: 'Địa điểm:'
+  discussion_topics:
+    assignment_details:
+      due_date: kết thúc vào %{date}
+      show_due_dates: Hiển thị ngày đến hạn
+    entry:
+      show_more_entries:
+        one: Hiển thêm 1 mục
+        other: Hiện thêm %{count} mục
+    published_button:
+      buttons:
+        not_published: Chưa phát hành
+        published: Được phát hành
+    show:
+      announcement_closed: Thông báo này đã khoá bình luận
+      collapse_replies: Thu gọn trả lời
+      expand_replies: Mở rộng trả lời
+      initial_post_required: Trả lời chỉ hiển thị cho những người đã đăng ít nhất một câu trả lời.
+      mark_all_as_read: Đánh dấu tất cả là đã đọc
+      unread: Chưa đọc
+  discussions:
+    entry_stats:
+      show_more: Hiện thêm
+    no_results:
+      make_sure_all_search_terms_are_spelled_correctly: Hãy chắc chắn rằng tất cả các cụm từ tìm kiếm được viết đúng chính tả.
+      suggestions: 'Gợi ý:'
+      try_different_more_general_or_fewer_keywords: Hãy thử các từ khóa khác nhau, tổng quát hơn hoặc ít từ khoá hơn.
+      try_disabling_the_unread_filter: Hãy thử tắt bộ lọc "Chưa đọc".
+      your_search_did_not_match_any_entries: Không tìm thấy kết quả
+  discussions_a5f96392: Thảo luận
+  display_name_6c2cfc58: 'Tên hiển thị:'
+  display_name_b80c243e: Tên hiển thị
+  download_submissions_7454665f: Tải tài liệu
+  due_date_822625d8: Hạn nộp bài
+  edit_points_3a339cd8: Sửa điểm
+  email_address_6e0443a5: Địa chỉ email
+  email_address_a1b97a39: Địa chỉ email
+  email_address_optional_72795076: Địa chỉ Email (Tùy chọn)
+  enrolled_as_272da3b9: Ghi danh là
+  eportfolios:
+    page_section_static:
+      headers:
+        submission: Sinh viên nộp bài %{assignment}, lúc %{created_date}
+  error_sending_submission_comment_dc15d24f: Lỗi gửi bình luận
+  expand_global_navigation_2c28d5d4: Mở rộng điều hướng
+  external_feeds_b6345379: Dữ liệu bên ngoài
+  failed_to_load_external_feeds_7ac8411d: Tải dự liệu thất bại
+  feature_flags:
+    feature_flag_admin_view:
+      feature_options: Tùy chọn tính năng
+  features:
+    high_contrast: UI tương phản cao
+  file_status:
+    published_status: Được phát hành
+  find_flickr_image_view:
+    search: Tìm kiếm
+  findLinkForService:
+    buttons:
+      search: Tìm kiếm
+  full_name_14c958f7: 'Họ và tên:'
+  full_name_23fdfb6d: Họ và tên
+  full_name_is_required_8efbdc84: Tên đầy đủ là bắt buộc
+  global_message_icons:
+    invitation: Thư mời
+  gradebook:
+    gradebook_header_menu:
+      download_submissions: Tải tài liệu
+  gradebooks:
+    grade_summary:
+      headers:
+        score: Điểm
+      submission_score: "*%{score}* trên %{possible}"
+    speed_grader:
+      all_sections: Tất cả các mục
+    submissions_zip_upload:
+      done: Làm xong! Chúng tôi đã lấy các tập tin bạn đính kèm một nhận xét ngắn cho bài tập này. Các sinh viên sẽ nhận được một thông báo rằng về nhận xét này.
+  gradebookSectionMenuView:
+    all_sections: Tất cả các mục
+  group:
+    tabs:
+      discussions: Thảo luận
+      home: Khóa học
+  group_is_joined_by_invitation_only_d00f5a63: Nhóm được tham gia chỉ bằng lời mời
+  groups:
+    context_groups:
+      options:
+        invite_only: Thành viên được mời
+    manage:
+      group_edit:
+        invitation_only: Chỉ có thư mời
+  helpers:
+    dashboard_helper:
+      x_new_in_assignments:
+        one: "* 1 * Thông báo bài tập"
+  high_contrast_description: |-
+    Độ tương phản cao tăng độ tương phản màu của giao diện người dùng (văn bản, nút, v.v.), làm cho các mục đó nhiều hơn
+    khác biệt và dễ dàng hơn để xác định. Lưu ý: Xây dựng thương hiệu sẽ bị vô hiệu hóa.
+  inbox_bb245a60: Hộp thư
+  include_scores_when_alerting_about_grades_if_your__b221c2c8: |-
+    Bao gồm học lực khi cảnh báo về điểm số.
+              Nếu email của bạn không phải là email của tổ chức, điều này có nghĩa là nội dung nhạy cảm sẽ được gửi bên ngoài tổ chức.
+  include_byte_order_mark_in_compatible_spreadsheet__ebd6e18: Bao gồm Byte-Order Mark trong xuất bảng tính tương thích
+  items_items_selected_5b55e566: "%{items} mục được chọn"
+  jquery:
+    module_sequence_footer:
+      next: Kế tiếp
+      previous: Trước đó
+  last_modified_by_ca4bb5e1: Lần cuối sửa bởi
+  language_6b3e2c7c: Ngôn ngữ
+  latest_f604a75: Gần nhất
+  loading_announcements_b927a86c: Đang tải thông báo
+  loading_more_results_1d437202: Đang tải thêm kết quả
+  loading_more_results_def6df65: Đang tải thêm kết quả...
+  location_e17bd402: 'Địa điểm:'
+  media_comment_submission_14e224dc: Gửi lời bình sinh động
+  membership_by_invitation_only_9bc27199: Thành viên được mời
+  messages:
+    account_user_registration:
+      email:
+        html:
+          subject: Lời mời quản trị tài khoản Canvas
+        subject: Lời mời quản trị tài khoản Canvas
+    appointment_group_deleted:
+      email:
+        no_reason_given: không có
+    assignment_due_date_changed:
+      email:
+        assignment_due_date_changed: 'Thay đổi ngày nộp bài: %{assignment_name}, %{course_name}'
+        assignment_due_date_changed_sentence: 'Ngày nộp bài, %{assignment_name}, cho
+          khóa học, %{course_name}, được dời về: '
+        html:
+          assignment_due_date_changed: 'Thay đổi ngày nộp bài: %{assignment_name},
+            %{course_name}'
+          assignment_due_date_changed_sentence: 'Ngày nộp bài, %{assignment_name},
+            cho khóa học, %{course_name}, được dời về:'
+      summary:
+        assignment_due_date_changed: 'Thay đổi ngày nộp bài: %{assignment_name}, %{course_name}'
+    assignment_due_date_override_changed:
+      email:
+        assignment_due_date_changed: 'Thay đổi ngày nộp bài: %{assignment_name}, %{course_name}
+          (%{override})'
+        assignment_due_date_changed_sentence: 'Ngày nộp bài, %{assignment_name}, cho
+          khóa học, %{course_name} (%{override}) được dời về:'
+        html:
+          assignment_due_date_changed: 'Thay đổi ngày nộp bài: %{assignment_name},
+            %{course_name} (%{override})'
+          assignment_due_date_changed_sentence: 'Ngày nộp bài, %{assignment_name},
+            cho khóa học, %{course_name} (%{override}), được dời về:'
+      summary:
+        assignment_due_date_changed: 'Thay đổi ngày nộp bài: %{assignment_name}, %{course_name}
+          (%{override})'
+    course_started:
+      email:
+        course_starts_today: Khóa học của bạn bắt đầu từ hôm nay
+    enrollment_invitation:
+      email:
+        html:
+          none: không có
+          subject: Lời mời khóa học
+        none: không có
+        subject: Lời mời khóa học
+      sms:
+        none: không có
+      summary:
+        subject: Lời mời khóa học
+    enrollment_notification:
+      email:
+        html:
+          none: không có
+        none: không có
+      sms:
+        none: không có
+    enrollment_registration:
+      email:
+        html:
+          none: không có
+          subject: Lời mời khóa học
+        none: không có
+        subject: Lời mời khóa học
+      sms:
+        none: không có
+      summary:
+        subject: Lời mời khóa học
+    submission_comment:
+      summary:
+        subject: 'Bình luận cho bài đăng: %{user},%{assignment},%{context}'
+  migration:
+    calendar_event_type: Lịch sự kiện
+  minimize_global_navigation_2d839351: Thu nhỏ điều hướng
+  month_s_5c17590e: Tháng
+  more_people_options_730e9686: Tùy chọn nhiều người hơn
+  modified_by_c1584b3c: Chỉnh sửa bởi
+  modified_by_user_e6c8ade3: 'chỉnh sửa bởi: %{user}'
+  move_abf00365: Di chuyển
+  more_options_272b4953: Lựa chọn khác
+  mute_dialog:
+    submission_comments: Lời phê bài nộp
+  new_announcement_23af4598: Thông báo mới
+  new_appointment_timeslots_are_available_for_signup_a3e3f964: Khung hẹn có sẵn để đăng ký
+  next_40e12421: Kế tiếp
+  next_month_749b1778: Tháng tiếp theo
+  next_month_b55a387c: Tháng tiếp theo
+  no_announcements_280df147: Không có thông báo
+  next_e0d38b1f: Kế tiếp
+  none_3b5e34d2: Không có
+  none_9b6c9bec: không có
+  not_published_73f7079: Chưa phát hành
+  notification:
+    added_to_conversation_description: Bạn được thêm vào một cuộc trò chuyện
+    added_to_conversation_display: Đã thêm vào cuộc hội thoại
+    all_submissions_description: |-
+      * Chỉ người hướng dẫn và quản trị viên: *
+
+      Nộp bài tập (trừ câu hỏi)
+    announcement_created_by_you_description: |-
+      * Thông báo do bạn tạo
+      * Trả lời các thông báo bạn đã tạo
+    announcement_created_by_you_display: Thông báo được tạo bởi bạn
+    announcement_description: Thông báo mới trong khóa học của bạn
+    announcement_display: Thông báo
+    appointment_availability_display: Cuộc hẹn có sẵn
+    appointment_cancelations_description: Hủy hẹn
+    appointment_cancelations_display: Hủy hẹn
+    appointment_signups_description: Cuộc hẹn mới trên lịch của bạn
+    appointment_signups_display: Đăng ký hẹn
+    blueprint_description: |-
+      * Chỉ người hướng dẫn và quản trị viên: *
+
+      Nội dung được đồng bộ hóa từ khóa học kế hoạch chi tiết sang các khóa học liên quan
+    blueprint_display: Đồng bộ hóa kế hoạch chi tiết
+    calendar_description: Các mục tạo mới và thay đổi trên lịch học
+    categories:
+      announcement: Thông báo
+      appointment_availability: Cuộc hẹn có sẵn
+      appointment_cancelations: Hủy hẹn
+      appointment_signups: Đăng ký hẹn
+      content_link_error: Lỗi liên kết nội dung
+      course_content: Nội dung khóa học
+      due_date: Hạn nộp bài
+      grading_policies: Chính sách chấm điểm
+      invitiation: Thư mời
+      membership_update: Cập nhật thành viên
+      student_appointment_signups: Đăng ký hẹn sinh viên
+      submission_comment: Bình luận cho bài đăng
+    content_link_error_description: |-
+      * Chỉ người hướng dẫn và quản trị viên: *
+
+      Vị trí và nội dung của một liên kết thất bại mà một sinh viên đã tương tác với
+    content_link_error_display: Lỗi liên kết nội dung
+    conversation_created_description: Bạn đã tạo một cuộc trò chuyện
+    conversation_created_display: Cuộc trò chuyện
+    conversation_message_description: Tin nhắn mới
+    conversation_message_display: Tin nhắn hội thoại
+    course_content_description: |-
+      Thay đổi nội dung khóa học:
+
+      * Nội dung trang
+      * Nội dung câu đố
+      * Nội dung chuyển nhượng
+    course_content_display: Nội dung khóa học
+    discussion_description: Chủ đề thảo luận mới trong khóa học của bạn
+    discussion_post_description: Bài thảo luận mới trong một chủ đề bạn đã đăng ký
+    discussion_post_display: Gửi thảo luận
+    due_date_description: Thay đổi ngày nộp bài
+    due_date_display: Hạn nộp bài
+    files_description: Tập tin mới được thêm vào khóa học của bạn
+    grading_policies_description: Thay đổi chính sách chấm điểm khóa học
+    grading_policies_display: Chính sách chấm điểm
+    invitation_description: |-
+      Lời mời cho:
+
+      * Học trên web
+      * Học nhóm
+      * Học chung
+      * Đánh giá và nhắc nhở
+    invitation_display: Thư mời
+    late_grading_description: |-
+      * Chỉ người hướng dẫn và quản trị viên: *
+
+      Nộp bài tập (trừ câu hỏi)
+    membership_update_description: |-
+      * Chỉ quản trị viên: đang chờ đăng ký kích hoạt *
+
+      * Ghi danh nhóm
+      * chấp nhận / từ chối
+    membership_update_display: Cập nhật thành viên
+    names:
+      added_to_conversation: Đã thêm vào cuộc hội thoại
+      announcement_created_by_you: Thông báo được tạo bởi bạn
+      assignment_due_date_changed: Ngày nộp bài được thay đổi
+      assignment_due_date_override_changed: Ghi đè ngày nộp bài được thay đổi
+      blueprint_sync_complete: Hoàn thành đồng bộ hóa kế hoạch chi tiết
+      collaboration_invitation: Mời học chung
+      content_link_error: Lỗi liên kết nội dung
+      conversation_message: Tin nhắn hội thoại
+      enrollment_invitation: Lời mời tuyển sinh
+      submission_comment: Bình luận cho bài đăng
+      submission_comment_for_teacher: Gửi bình luận cho giáo viên
+    other_description: |-
+      * Chỉ người hướng dẫn và quản trị viên: *
+
+      * Ghi danh khóa học
+      * Tạo báo cáo
+      * Xuất nội dung
+      * Chuyển báo cáo
+      * Tài khoản mới
+      * Nhóm sinh viên mới
+    other_display: Thông báo ban quản trị
+    student_appointment_description: |-
+      * Chỉ người hướng dẫn và quản trị viên: *
+
+      Đăng ký hẹn sinh viên
+    student_appointment_display: Đăng ký hẹn sinh viên
+    submission_comment_description: Góp ý bài tập
+    submission_comment_display: Bình luận cho bài đăng
+    web_conference_recording_ready: Ghi âm hội nghị đã sẵn sàng
+  notification_preferences:
+    frequencies:
+      title:
+        daily: Gửi tóm tắt hàng ngày
+        never: Đừng gửi cho tôi bất cứ điều gì
+        right_away: Thông báo cho tôi ngay
+        weekly: Gửi tóm tắt hàng tuần
+    groups:
+      alerts: Cảnh báo
+      communication: Cuộc trò chuyện
+      course: Hoạt động khóa học
+      discussions: Thảo luận
+      scheduling: Lập kế hoạch
+  notification_preferences_cf47083d: Tùy chọn thông báo
+  outcomes:
+    criterion:
+      pts: điểm
+    outcome_result:
+      scoring: "%{points} trên %{possible_points}"
+    user_outcome_results:
+      score_out_of_possible: "*%{score}* trên %{possible}"
+  optionally_include_a_byte_order_mark_in_compatible_f3d0d243: Tùy chọn bao gồm một dấu thứ tự byte trong xuất bảng tính tương thích để chúng có thể được nhập vào Excel cho người dùng ở một số địa phương.
+  paginated_view:
+    loading_more_results: Đang tải thêm kết quả
+  pair_with_observer_b1541895: Ghép nối với Người quan sát
+  people_will_see_this_name_in_discussions_messages__fca9ebb2: Mọi người sẽ thấy tên này trong các cuộc thảo luận, tin nhắn và bình luận.
+  plugins:
+    vericite_settings:
+      labels:
+        comments: Lời phê bài nộp
+  points_out_of_total_24f61148: "*%{points}* trên **%{total}**"
+  posted_on_e1010e1e: 'Đăng lúc:'
+  prev_month_34bd934c: Tháng trước
+  previous_bd2ac015: Trước đó
+  previous_month_7adf1380: Tháng trước
+  previous_month_bb1e3c84: Tháng trước
+  profile:
+    communication:
+      crumb_notification_preferences: Tùy chọn thông báo
+      weekly_notification_range: Thông báo hàng tuần của bạn sẽ được gửi vào %{weekday} trong khoảng từ %{start_time} tới %{end_time}.
+    profile:
+      buttons:
+        update_settings: Cập nhật cài đặt
+      feature_options: Tùy chọn tính năng
+      headers:
+        other_services: Các dịch vụ khác
+        registered_services: Dịch vụ đã đăng ký
+        web_services: Dịch vụ web
+      hints:
+        name: Tên này sẽ được sử dụng để chấm điểm.
+        short_name: Mọi người sẽ thấy tên này trong các cuộc thảo luận, tin nhắn và bình luận.
+        sortable_name: Tên này xuất hiện trong danh sách sắp xếp.
+      labels:
+        change_password: Đổi mật khẩu
+        headers:
+          approved_integrations: Tích hợp được phê duyệt
+        locale: Ngôn ngữ
+        name: Họ và tên
+        other_services: Nhấp vào bất kỳ dịch vụ dưới đây để đăng ký
+        short_name: Tên hiển thị
+        show_user_services: Hãy để các thành viên khóa học / thành viên nhóm xem những dịch vụ nào tôi đã liên kết với hồ sơ của tôi
+        sortable_name: Tên sắp xếp
+        time_zone: Múi giờ
+      links:
+        more_options: lựa chọn khác
+        upload_new_image: Tải ảnh lên
+      no_approved_integrations: Các ứng dụng của bên thứ ba có thể yêu cầu quyền truy cập trang Canvas thay mặt bạn. Khi bạn bắt đầu ủy quyền các ứng dụng, bạn sẽ thấy chúng được liệt kê ở đây.
+      no_registered_services: Không có dịch vụ đã đăng ký
+      none: Không có
+      profile_pictures: 'Chọn hình ảnh bạn muốn sử dụng làm ảnh hồ sơ của bạn hoặc
+        tải lên một hình ảnh mới:'
+      subscribe_to_emails: Tôi muốn nhận thông tin, tin tức và lời khuyên từ Instructure
+      web_services: Canvas có thể làm cho cuộc sống của bạn dễ dàng hơn rất nhiều bằng các công cụ web bạn đã sử dụng. Nhấp vào bất kỳ dịch vụ nào trong "Dịch vụ khác" để xem.
+    titles:
+      register_communication: Đăng ký liên lạc
+    ways_to_contact:
+      headers:
+        other_contact: Liên hệ khác
+        ways_to_contact: Phương thức liên lạc
+      labels:
+        enable_login_for_email: Tôi muốn đăng nhập vào Canvas bằng địa chỉ email này
+      links:
+        add_contact_method: Phương thức liên lạc
+  pseudonyms:
+    confirm_change_password:
+      page_title: Đổi mật khẩu
+  previous_445ca243: trước đó
+  pts_699bd9aa: điểm
+  publish_btn_module:
+    buttons:
+      published: Được phát hành
+  published_4bb5209e: Được phát hành
+  published_c944a23d: được phát hành
+  published_click_to_unpublish_db016671: Được phát hành. Nhấn để bỏ phát hành.
+  published_click_to_unpublish_title_358122a: Được phát hành. Nhấn để bỏ phát hành %{title}.
+  questions_a955145c: Câu hỏi
+  quiz_log_auditing:
+    navigation:
+      questions: Câu hỏi
+    session_table_headers:
+      started_at: Bắt đầu lúc
+  quiz_questions_ecea3c40: Câu hỏi trắc nghiệm
+  quizzes:
+    quizzes:
+      form_question:
+        labels:
+          points: điểm
+      moderate:
+        headers:
+          attempt: Lần nộp
+        labels:
+          started: Đã bắt đầu
+      quiz_details:
+        headers:
+          time_limit: Thời lượng
+        none: Không có
+      quiz_edit_details:
+        labels:
+          quiz_instructions: Hướng dẫn trắc nghiệm
+      quiz_right_side:
+        labels:
+          current_score: Điểm hiện tại
+          kept_score: Điểm từng có
+          submission_details: Chi tiết lần nộp
+      quiz_show_teacher:
+        label:
+          time_limit: Thời lượng
+        no_time_limit: Không giới hạn thời lượng
+      quiz_submission:
+        labels:
+          quiz_score: Điểm trắc nghiệm
+      read_only:
+        labels:
+          quiz_instructions: Hướng dẫn trắc nghiệm
+      show:
+        labels:
+          no_time_limit: Không giới hạn thời lượng
+        only_registered_users: Chỉ những người đăng ký, ghi danh mới có thể thực hiện các câu đố được xếp loại
+      submission_version:
+        latest: Gần nhất
+      submission_versions:
+        attempt_history: Lịch sử nộp bài
+      take_quiz:
+        buttons:
+          next: Kế tiếp
+          previous: Trước đó
+          submit_quiz: Nộp bài trắc nghiệm
+        labels:
+          started: Đã bắt đầu
+        quiz_instructions: Hướng dẫn trắc nghiệm
+      take_quiz_right_side:
+        labels:
+          attempt_due: Hạn nộp
+          time_elapsed: Thời gian trôi qua
+    show:
+      answers:
+        correct: Chính xác
+        right: Đáp án đúng
+        you_answered: Đáp án của bạn
+      buttons:
+        already_published: Được phát hành!
+    take_quiz:
+      labels:
+        time_elapsed: Thời gian trôi qua
+      months_count:
+        one: 1 tháng
+      saved_at: Bài trắc nghiệm được lưu lúc %{t}
+    timing:
+      labels:
+        time_elapsed: Thời gian trôi qua
+  react_files:
+    created_at: Ngày tạo
+    errors:
+      no_match:
+        suggestions: 'Gợi ý:'
+    modified_by: Chỉnh sửa bởi
+    size: Dung lượng
+    updated_at: Ngày sửa đổi
+  quizzes_index:
+    headers:
+      assignment_quizzes: Bài tập trắc nghiệm
+  quizzes_public:
+    labels:
+      correct_answer: Đáp án đúng
+  registration:
+    student_dialog:
+      labels:
+        name: Họ và tên
+  resume_quiz_afeceb87: Tiếp tục bài kiểm tra
+  role_override:
+    permissions:
+      manage_interaction_alerts: Quản lý cảnh báo
+  score_out_of_points_84f44331: "(%{score} trên %{points})"
+  score_out_of_points_possible_88f370fd: "*%{score}* trên %{points_possible}"
+  screenreader_gradebook:
+    grading:
+      submission_details: Chi tiết lần nộp
+  search:
+    all_courses_inner:
+      next: Kế tiếp
+      previous: Trước đó
+  search_entries_or_author_63fb0a86: Tìm kiếm bình hoặc người viết
+  search_for_files_7541fb28: Tìm kiếm tập tin
+  section:
+    enrolled_as_observer: ghi danh là người xem
+    enrolled_as_student: ghi danh là sinh viên
+    enrolled_as_ta: ghi danh là trợ giảng
+    enrolled_as_teacher: ghi danh là giao viên
+  score_out_of_points_possible_points_bbaea991: "%{score} trên %{points_possible}\
+    \ điểm"
+  select_calendars_d5fa50b6: Chọn lịch
+  select_course_color_cad8e62b: Chọn màu khóa học
+  self_enrollments:
+    authenticate:
+      buttons:
+        next: Kế tiếp
+    authenticate_or_register:
+      buttons:
+        next: Kế tiếp
+      labels:
+        name: Họ và tên
+    confirm_enrollments:
+      buttons:
+        next: Kế tiếp
+  select_language_7c93a900: Chọn ngôn ngữ
+  share_the_following_pairing_code_with_an_observer__9b7c3667: |-
+    Chia sẻ mã ghép nối sau với người quan sát để cho phép
+        họ để kết nối với bạn. Mã này sẽ hết hạn sau bảy ngày,
+        hoặc sau một lần sử dụng.
+  shared:
+    components:
+      ic_submission_download_dialog:
+        download_submissions: Tải tất cả tài liệu
+    event_list:
+      nothing_for_now: Chưa có
+      nothing_one_week: Không có gì cho tuần tới
+    menu_enrollment:
+      labels:
+        enrolled_as: ghi danh là
+    recent_activity:
+      recent_activity_in_course: Hoạt động gần đây trong %{course_or_group}
+    rubric:
+      out_of: "%{points} *trên %{total}*"
+  show_by_date_e3967761: Hiển thị theo ngày
+  show_by_type_c5d61732: Hiển thị theo loại
+  show_more_af9cbc16: Hiện thêm
+  sortable_name_73f707cf: Tên sắp xếp
+  sortable_name_e25fe66c: 'Tên sắp xếp:'
+  sr_gradebook:
+    all_sections: Tất cả các mục
+    none: Không có
+  starred_5a9efa8a: Đã gắn dấu sao
+  submission_comments_4fa03a17: Lời phê bài nộp
+  submissions:
+    show:
+      submission_details: Chi tiết lần nộp
+  submission_comment_created_f9375ca2: Soạn góp ý
+  submission_comment_deleted_a031a529: Bỏ góp ý
+  submission_comment_updated_8d917ded: Thay đổi góp ý
+  submission_comment_sent_3f2af3d0: Gửi góp ý
+  submission_comments_b6d65841: Lời phê bài nộp
+  syllabus: Đề cương khóa học
+  tabs:
+    conferences: Hội nghị
+  there_are_no_announcements_for_this_course_5ee649c3: Không có thông báo cho khóa học này.
+  this_name_appears_in_sorted_lists_dccbd84b: Tên này xuất hiện trong danh sách sắp xếp.
+  this_name_will_be_used_by_teachers_for_grading_9b6aa8a0: Tên này sẽ được sử dụng bởi các giáo viên để chấm điểm.
+  time:
+    am: am
+    pm: pm
+  time_limit_a6f1a51e: Thời lượng
+  time_zone_f56f5183: Múi giờ
+  today_76e10f9c: Hôm nay
+  undated_15c2e5fe: Chưa sắp lịch
+  underline_all_links_description: |-
+    Liên kết gạch chân hiển thị các siêu liên kết trong menu điều hướng, Bảng điều khiển và thanh bên trang dưới dạng
+    * gạch chân văn bản *. Tùy chọn tính năng này không áp dụng cho các liên kết nội dung do người dùng tạo trong
+    Trình soạn thảo nội dung phong phú, luôn gạch chân các liên kết cho tất cả người dùng.
+  underline_links_e7cf9b4f: Gạch chân liên kết
+  user_notes:
+    tooltips:
+      loading_more: đang tải thêm kết quả
+  users:
+    dashboard_sidebar:
+      recent_feedback: Phản Hồi Gần Đây
+    group:
+      show_hide_activity_list: Hiển thị / Ẩn trong danh sách Hoạt động gần đây
+    logins:
+      none: không có
+    name:
+      labels:
+        display_name: Tên hiển thị
+        full_name: Họ và tên
+        name: Họ và tên
+        short_name: Tên hiển thị
+        sortable_name: Tên sắp xếp
+        time_zone: Múi giờ
+      none: Không có
+    teacher_activity:
+      headings:
+        current_score: Điểm hiện tại
+  use_semicolons_instead_of_commas_to_separate_field_62d24565: Sử dụng dấu chấm phẩy thay vì dấu phẩy để phân tách các trường trong xuất bảng tính tương thích để chúng có thể được nhập vào Excel cho người dùng ở một số địa phương.
+  use_semicolons_to_separate_fields_in_compatible_sp_56e0bdd2: Sử dụng dấu chấm phẩy để phân tách các trường trong xuất bảng tính tương thích
+  view_grades_8d3bae6c: Xem điểm
+  week_s_cb1492ee: Tuần
+  welcome_to_your_courses_to_customize_the_list_of_c_f95e4b2: Chào mừng đến với các khóa học! Để tùy chỉnh danh sách các khóa học, nhấp vào liên kết "Tất cả khóa học" và đánh dấu sao các khóa học sẽ hiển thị.
+  widget:
+    upload_media_track_form:
+      language: Ngôn ngữ
+  wiki:
+    wiki_page:
+      buttons:
+        view_all_pages: Xem tất cả các trang
+      published_indicator: Được phát hành!
+      unpublished_indicator: Chưa phát hành
+    wiki_page_edit:
+      title_label: Tiêu đề trang
+    wiki_page_index:
+      headers:
+        creation_date: Ngày tạo
+        last_edit: Sửa lần cuối
+        page_title: Tiêu đề trang
+  wrap_event_titles_in_calendar_month_view_cbb29fd8: Xem tiêu đề sự kiện theo tháng
+  you_must_log_in_to_view_replies_9ccd4da0: Bạn phải đăng nhập để xem trả lời
